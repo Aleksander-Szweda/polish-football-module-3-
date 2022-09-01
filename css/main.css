@@ -1,0 +1,56 @@
+.main {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.main__button {
+    border: solid 1px black;
+    background-color: #eecfce;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+
+}
+
+.main__button:hover {
+    background-color: #dbb3a8;
+}
+
+.main__button:active {
+    background-color: #cf998a;
+}
+
+.main__button--dark {
+    border: solid 1px white;
+    background-color: #ca5f41;
+    color: #dbcdcda9;
+}
+
+.main__button--dark:hover {
+    background-color: #cc735b;
+}
+
+.main__button:active {
+    background-color: #cc836e;
+}
+
+.main__button--dark:focus-visible {
+    border: solid 1px black;
+
+
+}
+
+.main__div--strong {
+    font-weight: 400;
+    color: #BDD6AC;
+}
+
+.main__div {
+    margin-top: 8px;
+    margin-bottom: -12px;
+}
+
+.main__div--dark {
+    color: #dbcdcda9;
+
+}

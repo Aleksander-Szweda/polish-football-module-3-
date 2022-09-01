@@ -1,0 +1,20 @@
+.article {
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.article--dark {
+    color: #dbcdcda9;
+}
+
+.article__h1 {
+    font-weight: 400;
+    font-size: 19px;
+    color: #BD4C31;
+}
+
+.article__h2 {
+    font-weight: 400;
+    font-size: 17px;
+    color: #BD4C31;
+}

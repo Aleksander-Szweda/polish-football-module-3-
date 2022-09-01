@@ -1,0 +1,14 @@
+.footer {
+    font-size: 15px;
+    margin: 15px;
+    line-height: 1.5;
+    background-color: #cab6b6;
+}
+
+.footer--dark {
+    background-color: #5c2b2b;
+    color: #dbcdcda9;
+
+
+
+}

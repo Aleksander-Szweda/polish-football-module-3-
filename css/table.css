@@ -1,0 +1,64 @@
+.table {
+    border-collapse: collapse;
+    text-align: center;
+    background-color: #eecfce;
+    width: 100%;
+    max-width: 1000px;
+    min-width: 300px;
+    overflow-x: auto;
+}
+
+.table__caption--dark {
+    color: #dbcdcda9;
+}
+
+.table__cell {
+    border: 1px solid #494343;
+    padding: 4px;
+    font-weight: 326;
+}
+
+.table__cell--bold {
+    font-weight: 400;
+}
+
+.table__cell--club:active {
+    background-color: #87c25f;
+}
+
+.table__cell--club:hover {
+    background-color: #97cf71;
+}
+
+.table__cell--redClub:active {
+    background-color: #c49795;
+}
+
+.table__cell--redClub:hover {
+    background-color: #e0a7a5;
+}
+
+.table__link {
+    color: currentColor;
+    text-decoration: none;
+}
+
+.table__link:visited {
+    color: #5a5f5d;
+}
+
+.table__link:focus-visible {
+    outline: black solid 1px;
+    background-color: #81ce4e;
+}
+
+.table__link--red:focus-visible {
+    outline-width: 1px;
+    outline-color: black;
+    background-color: #e4918e;
+    outline-style: solid;
+}
+
+.table__row--champion {
+    background-color: #BDD6AC;
+}
